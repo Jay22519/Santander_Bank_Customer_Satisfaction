@@ -3,3 +3,5 @@ This repository contains data manipulation , feature selection , multivariate fe
 
 
 https://www.kaggle.com/cast42/exploring-features/data -> From this repo some mutlivariate feature visualization is left 
+
+https://www.kaggle.com/selfishgene/advanced-feature-exploration -> From this repo some adanvced feature selection is left 
